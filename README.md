@@ -6,7 +6,7 @@
 
 `Создан свой шаблон, в котором имеются элементы данных, мониторящие загрузку CPU и RAM хоста`
 
-![alt text](https://github.com/NightWalkerZ488/git-hwork/blob/main/runnerreg.PNG)
+![alt text](https://github.com/NightWalkerZ488/zab2/blob/main/Задание1.PNG)
 
 ### Задание 2 и 3
 
